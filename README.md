@@ -1,23 +1,15 @@
-# Basic MERN Stack App
+# Memories
 
-### Front-End - React + Redux
+![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
 
-### Back-End - Node.js, Express.js & MongoDB
+## Introduction
+This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
 
-To run it locally -
+Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
 
-### Steps to run in development mode:-
+By the end of this video, you will have a strong understanding of how the MERN Stack works.
 
-1. Fork the repo and clone it.
-2. Switch to `development` branch for running in development mode.
-3. Make sure you have `yarn` Node.js & MongoDB installed in your system.
-4. [Only once] Run (from the root) `yarn install` and `cd client && yarn install`.
-5. Open two terminal windows (one for running Server and other for the UI).
-6. Start MongoDB service with `sudo service mongod start`. 
-7. Run `yarn server` to start the server. By default it will run on `port 5000`.
-8. For UI run `yarn client` and it will open on a new tab on `port 3000`.
-9. Go to `http://localhost:3000` to see the application running.
+## Launch your development career with project-based coaching - https://www.jsmastery.pro
 
-### Steps to run in production mode:-
-Follow steps 1 & 3-7 for running in production mode.
-This time go to `http://localhost:5000` to see the application running.
+Setup:
+- run ```npm i && npm start``` for both client and server side to start the app
